@@ -2,11 +2,11 @@
  * Module Dependencies.
  */
 
-var after = require('after-transition');
-var has3d = require('has-translate3d');
-var Emitter = require('emitter');
-var ease = require('css-ease');
-var query = require('query');
+var after = require('yields-after-transition');
+var has3d = require('component-has-translate3d');
+var Emitter = require('component-emitter');
+var ease = require('yields-css-ease');
+var query = require('component-query');
 
 /**
  * CSS Translate

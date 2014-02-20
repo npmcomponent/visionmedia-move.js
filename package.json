@@ -1,0 +1,16 @@
+{
+  "name": "visionmedia-move.js",
+  "description": "CSS3 backed JavaScript animation framework",
+  "version": "0.3.3",
+  "keywords": [
+    "animation",
+    "css3"
+  ],
+  "dependencies": {
+    "component-has-translate3d": "git://github.com/npmcomponent/component-has-translate3d.git",
+    "yields-after-transition": "git://github.com/npmcomponent/yields-after-transition.git",
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "yields-css-ease": "git://github.com/npmcomponent/yields-css-ease.git",
+    "component-query": "git://github.com/npmcomponent/component-query.git"
+  }
+}
